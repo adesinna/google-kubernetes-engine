@@ -1,0 +1,7 @@
+1. Create your google cloud account and Billing account
+
+2. We want to create  budget alert, so we do not over spend
+
+    Billing > Budgets & Alerts
+
+    Create New budget
